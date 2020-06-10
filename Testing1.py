@@ -14,3 +14,4 @@ class Employee_Days:
 es=Employee_Salary("Arif Ali",700)
 ed=Employee_Days("Arif Ali",30)
 print(es*ed)
+print("Employee Salary", es*ed)
